@@ -3,7 +3,7 @@
 # Project Description
 
 Weather dashboard is an application used OpenWeather API
-that when you input the city will be presented with current and future conditiond for that city
+that when you input the city will be presented with current and future conditions for that city
 below is the the User story & acceptance criteria of this application
 
 ## User Story
@@ -44,6 +44,6 @@ Public
 
 ![Alt text](<Screenshot 2023-07-12 at 8.47.08 pm.png>)
 
-[Weather-Dashboard][def]
+click here 👉🏻 [Weather-Dashboard][def]
 
 [def]: https://msadio8.github.io/Weather-Dashboard/
