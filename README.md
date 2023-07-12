@@ -41,3 +41,9 @@ weather dashboard will run in the browser
 Public
 
 ## Test and Deploy
+
+![Alt text](<Screenshot 2023-07-12 at 8.47.08 pm.png>)
+
+[Weather-Dashboard][def]
+
+[def]: https://msadio8.github.io/Weather-Dashboard/
